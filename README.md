@@ -35,8 +35,7 @@ This project investigates how machine learning models perform under adversarial 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/adversarial-machine-learning-cybersecurity.git
-cd adversarial-machine-learning-cybersecurity
+git clone https://github.com/Tameemikramullah/Cyberattack-Detector-for-Cloud-Networks.git
 load to colab or kaggle
 ```
 
